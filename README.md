@@ -33,8 +33,8 @@ git clone https://github.com/momorara/mimamoriPi<br>
 インストールについては、インストール文書に従いインストールを行ってください。<br>
 
 <h4><<動作環境>></h4>
-2024/?/? Buster版 10.13、bullseye版 11.9で動作確認<br>
-2024/?/? Pi5、BookWorm(12.5)では動作しません<br>
+2024/6/11 bullseye版 11.9で動作確認<br>
+2024/6/11 Pi5、BookWorm(12.5)では動作しません<br>
 
 <h4><<使用説明資料>></h4>
 説明書類の中の資料を確認ください。<br>
